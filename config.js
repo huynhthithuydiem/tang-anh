@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Anhhh Tiếnnn ơiiii!',
-    introDesc: `Em hong thích ăn cá
-    tại vì cá hơi tanh
-    em chỉ thích ăn anh
-    tại vì anh vười miệnggggg`,
+    introDesc: `Em hong thích ăn cá,
+    tại vì cá hơi tanh,
+    em chỉ thích ăn anh,
+    tại vì anh vừa miệnggggg`,
     btnIntro: 'hihi',
     title: 'Nếu sốt cao thì gọi xe cấp cứu',
     desc: 'Còn muốn yêu em thì chờ hết dịch em đến nhóooooo ',
